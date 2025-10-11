@@ -63,4 +63,4 @@ Developer experience • Responsible AI • System design • Testing strategy �
 
 ---
 
-> “Build with care. Ship with purpose.”
+> Build with care. Ship with purpose.
