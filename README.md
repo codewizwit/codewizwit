@@ -6,15 +6,18 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 ---
 
 ### 🧰 Tech Stack
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+</p>
 
 ---
 
@@ -45,9 +48,18 @@ Developer experience • Responsible AI • System design • Testing strategy �
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandra_Kelstrom-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akelstrom)
-[![Medium](https://img.shields.io/badge/Medium-@codewizwit-000000?style=flat-square&logo=medium&logoColor=white)](https://codewizwit.medium.com)
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codewizwit)
+
+<p align="center">
+  <a href="https://linkedin.com/in/akelstrom">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandra_Kelstrom-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codewizwit.medium.com">
+    <img src="https://img.shields.io/badge/Medium-@codewizwit-000000?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/codewizwit">
+    <img src="https://img.shields.io/badge/GitHub-Discussions-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
