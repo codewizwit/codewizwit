@@ -32,7 +32,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 
 ### 🌍 Beyond the Code
 - Contributor to **Responsible AI Institute** on governance and standards  
-- Writer at [Medium](https://codewizwit.medium.com) covering responsible AI and developer ethics  
+- Blogger at [Medium](https://codewizwit.medium.com) covering responsible AI and developer ethics  
 - Believer in building tools that make collaboration faster, testing smarter, and teams more human  
 
 ---
