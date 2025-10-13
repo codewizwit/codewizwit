@@ -21,12 +21,11 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 
 ---
 
-### ⚙️ What I’m Working On
-- Developing enterprise-scale applications at **Vanguard**  
+### ⚙️ What I’m Working On: Developing enterprise-scale applications at **Vanguard**
 - Prototyping a **Responsible AI Hub** for better prompt governance and model accountability
-- Streamlining **developer experience** with **Nx** and **GitHub Actions**  
-- Prototyping a **Responsible AI Hub** for better prompt governance and model accountability  
-- Exploring human-centered patterns for testing, CI/CD, and team workflows  
+- Streamlining **developer experience** and E2E test automation with **Nx** and **GitHub Actions**  
+- Implementing an **Open Sourced Responsible AI Hub/ CLI Tool ** for better prompt governance and model accountability  
+- Exploring human-centered patterns for testing, CI/CD, and team workflows
 
 ---
 
