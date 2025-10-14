@@ -24,7 +24,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 ### ⚙️ What I’m Working On: Developing enterprise-scale applications at **Vanguard**
 - Prototyping a **Responsible AI Hub** for better prompt governance and model accountability
 - Streamlining **developer experience** with **Nx and Github Actions**
-- Implementing an **Open Sourced Responsible AI Hub/ CLI Tool** for better prompt governance and model accountability  
+- Implementing an **Responsible AI Toolkit/ CLI Tool** for better prompt governance and model accountability (Building this @ Vanguard as well as person exploration with [human-in-the-loop](https://github.com/codewizwit/human-in-the-loop))
 - Exploring human-centered patterns for testing, CI/CD, and team workflows
 
 ---
