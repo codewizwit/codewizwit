@@ -23,7 +23,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 
 ### ⚙️ What I’m Working On: Developing enterprise-scale applications at **Vanguard**
 - Implementing an **Responsible AI Toolkit/ CLI Tool** for better prompt governance and model accountability (Building this @ Vanguard as well as person exploration with [human-in-the-loop](https://github.com/codewizwit/human-in-the-loop))
-- Building and shipping scalable micro frontends and services for Vanguard Advice Platforms using Angular, NestJS, Module Federation and AWS.
+- Building and shipping scalable micro frontends and services for Vanguard Advice Platforms using Angular, NestJS, Module Federation and AWS
 - Streamlining **developer experience** with **Nx and Github Actions**
 - Exploring human-centered patterns for testing, CI/CD, and team workflows
 
@@ -31,14 +31,14 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 
 ### 🌍 Beyond the Code
 - Contributor to **Responsible AI Institute** on governance and standards  
-- Blogger at [Medium](https://codewizwit.medium.com) covering responsible AI, developer ethics, tips and field notes.
+- Blogger at [Medium](https://codewizwit.medium.com) covering responsible AI, developer ethics, tips and field notes
 - Believer in building tools that make collaboration faster, testing smarter, and teams more human  
 
 ---
 
 ### ✈️ Fun Fact
-I’ve lived in **six countries outside the U.S.** — Taipei (Taiwan), Riga (Latvia), Prague (Czech Republic), Manchester (England), St Andrew’s (Scotland), and Gdańsk (Poland).  
-Chicago, IL is home base, and I’m currently living in **Philadelphia, PA**.
+I’ve lived in **six countries outside the U.S.** — Taipei (Taiwan), Riga (Latvia), Prague (Czech Republic), Manchester (England), St Andrew’s (Scotland), and Gdańsk (Poland),
+Chicago, IL is home base, and I’m currently living in **Philadelphia, PA**
 
 ---
 
