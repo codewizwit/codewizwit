@@ -39,7 +39,8 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 ---
 
 ### ✈️ Fun Fact
-I’ve lived in **six countries outside the U.S.** — Taipei (Taiwan), Riga (Latvia), Prague (Czech Republic), Manchester (England), St Andrew’s (Scotland), and Gdańsk (Poland),
+I’ve lived in **six countries outside the U.S.** — Taipei (Taiwan), Riga (Latvia), Prague (Czech Republic), Manchester (England), St Andrew’s (Scotland), and Gdańsk (Poland)</br>
+</br>
 Chicago, IL is home base, and I’m currently living in **Philadelphia, PA**
 
 ---
