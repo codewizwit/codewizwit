@@ -46,7 +46,7 @@ Chicago, IL is home base, and I’m currently living in **Philadelphia, PA**
 ---
 
 ### 🧩 Tech-related Interests
-Developer experience • Responsible AI • System design • Testing strategy • Creative technology  
+Developer experience • Responsible AI • System design • Testing strategy • Documentation • Creative technology  
 
 ---
 
