@@ -50,7 +50,7 @@ Developer experience • Responsible AI • System design • Testing strategy �
 ---
 
 ### 🧩 Outside Work 
-Food • Cooking (&eating) • Sci-Fi • Reading • Watching TV • Art & Design • Music (hip-hop, soul, oldies, rock&roll, reggae, jazz) • Interior Design • Dance • Basketball
+Food • Cooking (&eating) • Sci-Fi • Reading • Watching TV • Art & Design • Music (hip-hop, R&B, soul, doowop, oldies, rock&roll, reggae, jazz) • Interior Design • Dance • Basketball
 
 ---
 
