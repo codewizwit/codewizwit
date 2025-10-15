@@ -33,7 +33,8 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 - Created a repo called [curiosity-documentation](https://github.com/codewizwit/curiousity-documentation) where I turn tricky dev topics into bite-sized explanations (like a ‘null vs undefined’ guide told through a toilet paper meme)
 - Contributor to **Responsible AI Institute** working group on governance and standards  
 - Blogger at [Medium](https://codewizwit.medium.com) covering responsible AI, developer ethics, tips and field notes
-- Believer in building tools that make collaboration faster, testing smarter, and teams more human  
+- Philly Crew Committee Hype coordinator - Shaping culture and connection across the Philly office @ Vanguard. Coordinating events, moments, and energy that keep the crew thriving
+- Believer in building tools that make collaboration faster, testing smarter, and teams more human
 
 ---
 
@@ -43,8 +44,13 @@ Chicago, IL is home base, and I’m currently living in **Philadelphia, PA**
 
 ---
 
-### 🧩 Interests
+### 🧩 Tech-related Interests
 Developer experience • Responsible AI • System design • Testing strategy • Creative technology  
+
+---
+
+### 🧩 Outside Work 
+Food • Cooking (&eating) • Sci-Fi • Reading • Watching TV • Art & Design • Music (hip-hop, soul, oldies, rock&roll, reggae, jazz) • Interior Design • Dance • Basketball
 
 ---
 
