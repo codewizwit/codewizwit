@@ -21,7 +21,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 
 ---
 
-### ⚙️ What I’m Working On: Developing enterprise-scale applications at **Vanguard**
+### 🧠 What I’m Working On: Developing enterprise-scale applications at **Vanguard**
 - Implementing an **Responsible AI Toolkit/ CLI Tool** for better prompt governance and model accountability (Vanguard & personal exploration with [human-in-the-loop](https://github.com/codewizwit/human-in-the-loop))
 - Building and shipping scalable micro frontends and services for Vanguard Advice Platforms using Angular, NestJS, Module Federation and AWS
 - Streamlining **developer experience** with **Nx and Github Actions**
@@ -29,7 +29,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 
 ---
 
-### 🌍 Beyond the Code
+### 🌭 Beyond the Code
 - Created a repo called [curiosity-documentation](https://github.com/codewizwit/curiousity-documentation) where I turn tricky dev topics into bite-sized explanations (like a ‘null vs undefined’ guide told through a toilet paper meme)
 - Contributor to **Responsible AI Institute** working group on governance and standards  
 - Blogger at [Medium](https://codewizwit.medium.com) covering responsible AI, developer ethics, tips and field notes
@@ -50,7 +50,7 @@ Developer experience • Responsible AI • System design • Testing strategy �
 
 ---
 
-### 🧩 Outside Work 
+### 😎 Outside Work 
 Food • Cooking (&eating) • Sci-Fi • Reading • Watching TV • Art & Design • Music (hip-hop, R&B, soul, doowop, oldies, rock&roll, reggae, jazz) • Interior Design • Dance • Basketball
 
 ---
