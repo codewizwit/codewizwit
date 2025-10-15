@@ -30,7 +30,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 ---
 
 ### 🌍 Beyond the Code
-- Started a repo called curiosity-documentation where I turn tricky dev topics into bite-sized explanations — like a ‘null vs undefined’ guide told through a toilet paper meme.
+- Created a repo called [curiosity-documentation](https://github.com/codewizwit/curiousity-documentation) where I turn tricky dev topics into bite-sized explanations — like a ‘null vs undefined’ guide told through a toilet paper meme.
 - Contributor to **Responsible AI Institute** working group on governance and standards  
 - Blogger at [Medium](https://codewizwit.medium.com) covering responsible AI, developer ethics, tips and field notes
 - Believer in building tools that make collaboration faster, testing smarter, and teams more human  
