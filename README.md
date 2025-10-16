@@ -22,7 +22,7 @@ I blend strong technical skills with curiosity, clarity, and care — bridging d
 ---
 
 ### 🧠 What I’m Working On: Developing enterprise-scale applications at **Vanguard**
-- Implementing an **Responsible AI Toolkit/ CLI Tool** for better prompt governance and model accountability (Vanguard & personal exploration with [human-in-the-loop](https://github.com/codewizwit/human-in-the-loop))
+- Implementing an open sourced **Responsible AI Toolkit/ CLI Tool NPM Package** for better prompt governance and model accountability called human in the loop: <br> [GitHub](https://github.com/codewizwit/human-in-the-loop) | [npm package](https://www.npmjs.com/package/@human-in-the-loop/cli?activeTab=readme) 
 - Building and shipping scalable micro frontends and services for Vanguard Advice Platforms using Angular, NestJS, Module Federation and AWS
 - Streamlining **developer experience** with **Nx and Github Actions**
 - Exploring human-centered patterns for testing, CI/CD, and team workflows
