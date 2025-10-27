@@ -41,7 +41,7 @@ hit search "code review"
 - Build backend services with **NestJS, Java, Spring Boot, and AWS**
 
 **Innovation:**
-- Prototyped Responsible AI Hub, pitched to leadership, now contributing governance framework to existing platform tooling
+- Prototyped Responsible AI Hub, pitched to leadership, now contributing governance framework to existing AI platforms
 
 ---
 
