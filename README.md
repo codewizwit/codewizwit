@@ -75,7 +75,7 @@ What started as handwritten notebooks with question marks in margins became a co
 
 - **Contributor** to Responsible AI Institute working group on governance and standards
 - **Writer** at [Medium](https://codewizwit.medium.com) covering responsible AI, developer culture, and field notes through **Dispatch №13** series
-- **Culture coordinator** at Vanguard's Philly office (led $150k fundraiser through company-wide hoodie design contest)
+- **Culture coordinator** at Vanguard's Philly office (co-led $250k fundraiser through company-wide hoodie design contest)
 
 ---
 
