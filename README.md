@@ -24,15 +24,26 @@ hit search "code review"
 
 ---
 
-## 💼 What I Do at Vanguard
+💼 What I Do at Vanguard
+Software Engineer | Advice Platforms | June 2021 - Present
+Impact & Delivery:
 
-**Software Engineer** | Advice Platforms | June 2021 - Present
+Architected and deployed cloud-based data solution enabling decommissioning of legacy DB2 table - advancing key milestone in department's data modernization initiative
+Took ownership of final 15% of critical full-stack internal enrollment capability, ensuring on-time deployment through cross-team collaboration
 
-- Built **E2E testing pipeline** (GitHub Actions + Cypress + AWS Lambda) that cut regression cycles from hours to **under 3 minutes**
-- Lead automated test strategy for team using Cypress and Cucumber (BDD)
-- Develop micro frontends with **Angular, Nx, and Module Federation**
-- Build backend services with **NestJS, Java, Spring Boot, and AWS**
-- Prototyped Responsible AI Hub concept, pitched to leadership, now contributing as AI governance pipeline
+Testing & Developer Experience:
+
+Built E2E testing automation pipeline (GitHub Actions + Cypress + AWS Lambda) reducing manual QA from hours to under 3 minutes
+Serve as team Testing Practitioner - maintaining test suites (Cypress, Cucumber, Jest) and coaching team on emerging strategies
+
+Technical Breadth:
+
+Develop micro frontends with Angular, Nx, and Module Federation
+Build backend services with NestJS, Java, Spring Boot, and AWS
+
+Innovation:
+
+Prototyped Responsible AI Hub, pitched to leadership, now contributing AI governance framework into CI/CD
 
 ---
 
