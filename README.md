@@ -93,7 +93,7 @@ What started as handwritten notebooks with question marks in margins became a co
 - **Ex-bartender** who invested life savings in coding bootcamp during covid lockdown and got an offer at Vanguard day of graduation <br>
 - **Foodie** who believes the best conversations happen over good food <br>
 - **Design nerd** (DePaul Media & Design grad) who brings visual thinking to technical problems <br>
-- **Music lover** spanning hip-hop to doo-wop <br>
+- **Music lover** everything spanning hip-hop to doo-wop <br>
 - **Sci-fi reader** pondering the future we're building <br>
 - **Creative technologist** who sees code as craft <br>
 
