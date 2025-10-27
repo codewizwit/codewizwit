@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexandra (codewizwit)
 
-Software engineer who builds systems that put people first.  
+Software engineer building systems that put people first.  
 I blend development, design, and responsible AI with curiosity, clarity, and care.
 
 ---
