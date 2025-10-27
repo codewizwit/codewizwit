@@ -110,6 +110,14 @@ That global perspective shapes how I think about building inclusive, human-cente
 
 ---
 
+## 🌭 Why a Hot Dog?
+
+Some of my earliest memories are sharing Chicago dogs with my dad at Gene & Jude's (no ketchup allowed). Years later, I carved a hot dog block print for my college capstone. The logo you see now is an AI-simplified version of that original print.
+
+It's a symbol of nostalgia, connection, and continuity - a reminder that while AI can refine creativity, the spark, the story, the deeply human part, always comes first.
+
+---
+
 ## 🌐 Connect
 
 <p align="center">
