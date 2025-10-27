@@ -37,7 +37,7 @@ hit search "code review"
 - Serve as **team Testing Practitioner** - maintaining test suites (Cypress, Playwright, Cucumber, Jest) and coaching team on emerging strategies
 
 **Technical Breadth:**
-- Develop micro frontends with **Angular, Nx, and Module Federation**
+- Develop micro frontends with **Angular, TypeScript, Nx, and Module Federation**
 - Build backend services with **NestJS, Java, Spring Boot, and AWS**
 
 **Innovation:**
