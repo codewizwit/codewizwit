@@ -34,14 +34,14 @@ hit search "code review"
 
 **Testing & Developer Experience:**
 - Built **E2E testing automation pipeline** (GitHub Actions + Cypress + AWS Lambda) reducing manual QA from hours to **under 3 minutes**
-- Serve as **team Testing Practitioner** - maintaining test suites (Cypress, Cucumber, Jest) and coaching team on emerging strategies
+- Serve as **team Testing Practitioner** - maintaining test suites (Cypress, Playwright, Cucumber, Jest) and coaching team on emerging strategies
 
 **Technical Breadth:**
 - Develop micro frontends with **Angular, Nx, and Module Federation**
 - Build backend services with **NestJS, Java, Spring Boot, and AWS**
 
 **Innovation:**
-- Prototyped Responsible AI Hub, pitched to leadership, now contributing governance framework to existing platform CLI toolkit
+- Prototyped Responsible AI Hub, pitched to leadership, now contributing governance framework to existing platform tooling
 
 ---
 
