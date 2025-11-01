@@ -3,6 +3,9 @@
 Software engineer building systems that put people first.  
 I build developer tools that make Responsible AI usable and scalable, from publishing personal npm packages to enterprise-scale governance.
 
+Here’s what that looks like in practice - a mix of independent exploration and applied engineering:
+
+
 ---
 
 ## 🚀 Featured Work
