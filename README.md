@@ -69,13 +69,7 @@ hit search "code review"
 ### Curiosity-Documentation: Five Years of "How Does This Actually Work?"
 **[GitHub repo](https://github.com/codewizwit/curiousity-documentation)** documenting my entire learning journey from bootcamp to production engineer.
 
-What started as handwritten notebooks with question marks in margins became a comprehensive knowledge base covering Angular, React, AWS, testing strategies, responsible AI, and everything in between. 
-
-**Highlights:**
-- **The Archives**: 34 pages of digitized bootcamp notes showing the learning journey
-- **Production topics**: Nx monorepos, Module Federation, GitHub Actions, AWS Lambda
-- **Creative explanations**: Like explaining `null` vs `undefined` through a toilet paper meme
-- **Real-world application**: Concepts that directly informed building Human-in-the-Loop
+Shows the evolution of my curiousity and learning. Handwritten bootcamp notebooks with question marks in margins grew into a comprehensive knowledge base covering Angular, React, AWS, testing strategies, responsible AI, and everything in between. 
 
 **Why it matters:** Shows continuous learning mindset, ability to teach complex concepts, and commitment to documentation as a core engineering practice.
 
