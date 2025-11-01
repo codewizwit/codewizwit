@@ -7,9 +7,9 @@ I build developer tools that make Responsible AI usable, from personal experimen
 
 ## 🚀 Featured Work
 
-### Human-in-the-Loop: AI Governance Toolkit  
-Open-source CLI exploring how Responsible AI principles can live inside developer tooling.  
-Provides standardized prompt management, contribution workflows, and accountability frameworks for ethical AI practices.  
+### Human-in-the-Loop: AI Governance Toolkit **(Passion Project)**
+AI Toolkit and CLI NPM package  Provides standardized prompt management, contribution workflows, and automated accountability and quality assurance pipelines for ethical AI practices.  
+My way to explore how Responsible AI principles can live inside developer tooling.  
 [`npm`](https://www.npmjs.com/package/@humans-in-the-loop/cli) | [`GitHub`](https://github.com/codewizwit/human-in-the-loop)
 
 
