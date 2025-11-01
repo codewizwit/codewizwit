@@ -7,7 +7,7 @@ I blend development, design, and responsible AI with curiosity, clarity, and car
 
 ## 🚀 Featured Work
 
-### Human-in-the-Loop: AI Governance Toolkit
+### Human-in-the-Loop: AI Toolkit CLI with CI/CD automation
 **📦 [Published npm package](https://www.npmjs.com/package/@human-in-the-loop/cli) | [GitHub](https://github.com/codewizwit/human-in-the-loop)**
 
 Open-source CLI toolkit solving the chaos of ungoverned AI tools across engineering teams. Provides standardized prompt management, contribution workflows, and accountability frameworks for responsible AI use.
