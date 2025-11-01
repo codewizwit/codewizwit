@@ -1,26 +1,22 @@
 # 👋 Hi, I'm Alexandra (codewizwit)
 
 Software engineer building systems that put people first.  
-I blend development, design, and responsible AI with curiosity, clarity, and care.
+I build developer tools that make Responsible AI usable — from personal experiments to enterprise-scale governance.
 
 ---
 
 ## 🚀 Featured Work
 
-### Human-in-the-Loop: AI Toolkit CLI with CI/CD automation
-**📦 [Published npm package](https://www.npmjs.com/package/@human-in-the-loop/cli) | [GitHub](https://github.com/codewizwit/human-in-the-loop)**
+### Human-in-the-Loop: AI Governance Toolkit  
+Open-source CLI exploring how Responsible AI principles can live inside developer tooling.  
+Provides standardized prompt management, contribution workflows, and accountability frameworks for ethical AI practices.  
+[`npm`](https://www.npmjs.com/package/@humans-in-the-loop/cli) · [`GitHub`](https://github.com/codewizwit/human-in-the-loop)
 
-Open-source CLI toolkit solving the chaos of ungoverned AI tools across engineering teams. Provides standardized prompt management, contribution workflows, and accountability frameworks for responsible AI use.
+—
 
-**Built collaboratively with Claude** to dogfood the exact developer-first AI principles the toolkit promotes.
-
-```bash
-npm install -g @human-in-the-loop/cli
-hit search "code review"
-```
-
-**Tech:** TypeScript, Nx monorepo, Commander.js, Inquirer.js, Jest  
-**Impact:** Enables teams to discover, version, and govern AI tools from a single source of truth
+### Awesome AI *(Vanguard)*  
+Building a governed registry of AI tools and prompts with CI checks for documentation quality, developer trust, and ethical impact.  
+Demonstrates practical, team-scale adoption of Responsible AI standards in a real engineering environment.
 
 ---
 
@@ -29,7 +25,7 @@ hit search "code review"
 **Software Engineer** | Test Strategiest | AI Committe Member | Advice & Wealth Management Tech | June 2021 - Present
 
 **Innovation:**
-- Awesome AI 😎 (internal) — Building an innersource registry of AI tools and internal prompts with built-in CI governance for what we consider awesome: secure, great documentation, trustworthy, and ethical. Only contributed tools that pass our standards get the awesome badge, but humans always get the final say. 
+- Awesome AI List 😎 — Building an innersource registry of AI tools and internal prompts with built-in CI governance for what we consider awesome: secure, great documentation, trustworthy, and ethical. Only contributed tools that pass our standards get the awesome badge, but humans always get the final say. 
 
 **Impact & Delivery:**
 - Architected and deployed **cloud-based data solution** enabling decommissioning of legacy DB2 table - advancing key milestone in department's data modernization initiative
