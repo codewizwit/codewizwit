@@ -29,7 +29,7 @@ hit search "code review"
 **Software Engineer** | Test Strategiest | AI Committe Member | Advice & Wealth Management Tech | June 2021 - Present
 
 **Innovation:**
-- Awesome AI 😎 (internal) — Building an innersource registry of AI tools and internal prompts with built-in CI governance for what we consider awesome: secure, great documentation, trustworthy, and ethical. Only contributed tools that pass our standards get our awesome badge, but humans always get the final say. 
+- Awesome AI 😎 (internal) — Building an innersource registry of AI tools and internal prompts with built-in CI governance for what we consider awesome: secure, great documentation, trustworthy, and ethical. Only contributed tools that pass our standards get the awesome badge, but humans always get the final say. 
 
 **Impact & Delivery:**
 - Architected and deployed **cloud-based data solution** enabling decommissioning of legacy DB2 table - advancing key milestone in department's data modernization initiative
