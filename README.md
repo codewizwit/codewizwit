@@ -29,7 +29,7 @@ hit search "code review"
 **Software Engineer** | Advice Platforms | June 2021 - Present
 
 **Innovation:**
-- Awesome AI 😎 (internal) — Designed and maintain an internal registry of AI tools and prompts with built-in CI checks for documentation quality, developer trust, and ethical impact.
+- Awesome AI 😎 (internal) — Building an innersource registry of AI tools and prompts with built-in CI checks for documentation quality, developer trust, and ethical impact.
 
 **Impact & Delivery:**
 - Architected and deployed **cloud-based data solution** enabling decommissioning of legacy DB2 table - advancing key milestone in department's data modernization initiative
