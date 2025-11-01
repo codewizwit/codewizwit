@@ -28,6 +28,9 @@ hit search "code review"
 
 **Software Engineer** | Advice Platforms | June 2021 - Present
 
+**Innovation:**
+- Awesome AI 😎 (internal) — Designed and maintain an internal registry of AI tools and prompts with built-in CI checks for documentation quality, developer trust, and ethical impact.
+
 **Impact & Delivery:**
 - Architected and deployed **cloud-based data solution** enabling decommissioning of legacy DB2 table - advancing key milestone in department's data modernization initiative
 - Took ownership of final 15% of critical **full-stack internal enrollment capability**, ensuring on-time deployment through cross-team collaboration
@@ -40,8 +43,6 @@ hit search "code review"
 - Develop micro frontends with **Angular, TypeScript, Nx, and Module Federation**
 - Build backend services with **NestJS, Java, Spring Boot, and AWS**
 
-**Innovation:**
-- Prototyped Responsible AI Hub, pitched to leadership, now contributing governance framework to existing AI platforms
 
 ---
 
@@ -82,6 +83,7 @@ What started as handwritten notebooks with question marks in margins became a co
 
 ## 🌭 Beyond the Code
 
+- **Preparing a conference talk:**. Testing Strategies for AI Bias Outside the Model
 - **Contributor** to Responsible AI Institute working group on governance and standards
 - **Writer** at [Medium](https://codewizwit.medium.com) covering responsible AI, developer culture, and field notes through **Dispatch №13** series
 - **Culture coordinator** at Vanguard's Philly office (co-led $250k fundraiser through company-wide hoodie design contest)
