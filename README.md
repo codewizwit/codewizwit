@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alexandra (codewizwit)
 
 Software engineer building systems that put people first.  
-I build developer tools that make Responsible AI usable and scalable, from publishing personal npm packages to enterprise-scale governance.
+I build developer tools that make Responsible AI usable and scalable, from publishing npm packages to enterprise-scale governance.
 
 Here’s what that looks like in practice - a mix of independent exploration and applied engineering:
 
