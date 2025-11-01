@@ -70,9 +70,10 @@ Shows the evolution of my curiousity and learning. Handwritten bootcamp notebook
 ## 🌭 Beyond the Code
 
 - **Preparing a conference talk:** Testing Strategies for AI Bias Outside the Model for Internal IGNITE Tech Conference
-- **Contributor** to Responsible AI Institute working group on governance and standards
-- **Writer** at [Medium](https://codewizwit.medium.com) covering responsible AI, developer culture, and field notes through **Dispatch №13** series
 - **Culture coordinator** at Vanguard's Philly office (co-led $250k fundraiser through company-wide hoodie design contest)
+- **Writer** at [Medium](https://codewizwit.medium.com) covering responsible AI, developer culture, and field notes through **Dispatch №13** series
+- **Contributor** to Responsible AI Institute working group on governance and standards
+
 
 ---
 
