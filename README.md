@@ -10,8 +10,8 @@ Here’s what that looks like in practice - a mix of independent exploration and
 
 ## 🚀 Featured Work
 
-### Human-in-the-Loop: AI Governance Toolkit **(Passion Project)**
-AI Toolkit and CLI NPM package  Provides standardized prompt management, contribution workflows, and automated accountability and quality assurance pipelines for ethical AI practices.  
+### Human-in-the-Loop: AI CLI Toolkit Featuring Resume Skills **(Passion Project)**
+AI Toolkit and CLI NPM package. Provides standardized prompt management, contribution workflows, and automated accountability and quality assurance pipelines for responsible AI practices.  
 My way to explore how Responsible AI principles can live inside developer tooling.  
 [`npm`](https://www.npmjs.com/package/@humans-in-the-loop/cli) | [`GitHub`](https://github.com/codewizwit/human-in-the-loop)
 
