@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Alexandra (codewizwit)
 
-Software engineer, speaker, writer, and coach committed to building a future where technology serves people, with no human left behind.
-
-I coach engineering teams and translat reesponsible AI principles into engineering practice. 
-I bring full-stack engineering and testing expertise shaped by life across 6 countries, design, and service industry roots that taught me empathy as an operational skill. 
+Software engineer, speaker, writer, and coach committed to building a future where technology and humanity evolve together with no human left behind.
 
 ---
 
