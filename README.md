@@ -24,18 +24,18 @@ Demonstrates practical, team-scale adoption of Responsible AI standards in a rea
 
 ## 💼 What I Do at Vanguard
 
-Senior Software Engineer, AI Enablement | Vanguard | Philadelphia, PA | Jan 2026 – Present
-• Recruited to AI Enablement based on demonstrated work on AI Connect Committee and thought leadership
-• Developing Claude Code curriculum for 20+ teams: configuration, custom skill building, and shift-left integration patterns
-• Delivering Claude-to-code and Claude-skills building workshops with demonstrated success on all teams onboarded to date
-• Coaching test practitioners on AI-augmented testing strategies, connecting QA expertise with responsible AI workflows
-• Building "Awesome AI" governance registry with automated pipeline scoring for security, documentation, and responsible AI
+**Senior Software Engineer, AI Enablement** _Jan 2026 – Present_
+- Recruited to AI Enablement based on demonstrated work on AI Connect Committee and thought leadership
+- Developing Claude Code curriculum for 20+ teams: configuration, custom skill building, and shift-left integration patterns
+- Delivering Claude-to-code and Claude-skills building workshops with demonstrated success on all teams onboarded to date
+- Coaching test practitioners on AI-augmented testing strategies, connecting QA expertise with responsible AI workflows
+- Building "Awesome AI" governance registry with automated pipeline scoring for security, documentation, and responsible AI
 compliance
 
-Software Engineer | Vanguard | Philadelphia, PA | June 2021 – Dec 2025
-• Cut QA cycles from hours to under 3 minutes by architecting E2E testing pipeline (GitHub Actions, Cypress, AWS Lambda)
-• Drove 10-15% code coverage increase with Playwright, Cypress, Jest; led BDD adoption as team Testing Practitioner
-• Architected cloud data solution that decommissioned legacy DB2, advancing modernization milestone by on
+**Software Engineer**   _June 2021 – Dec 2025_
+- Cut QA cycles from hours to under 3 minutes by architecting E2E testing pipeline (GitHub Actions, Cypress, AWS Lambda)
+- Drove 10-15% code coverage increase with Playwright, Cypress, Jest; led BDD adoption as team Testing Practitioner
+- Architected cloud data solution that decommissioned legacy DB2, advancing modernization milestone by on
 
 
 ---
