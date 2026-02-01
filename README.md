@@ -54,7 +54,12 @@ compliance
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
 </p>
 
-**Focus areas:** Developer experience • Testing strategy • Responsible AI • System design
+**Focus areas:** Developer experience • AI Enablement • Responsible AI • System Design • Shifting Solutions Left • Test Strategy
+
+---
+## 📚 Public Speaking
+- **AI Summit NY 2025**: Selected as Future AI Leader; delivered talk "Responsible AI Engineering in Practice"
+- **Upcoming 2026** : Future of Work - Baruch College AI Ethics Symposium | Bias and Blindspots in AI Workflows- Stregthening Testing In Financial Advice -Vanguard IGNITE AI Conference
 
 ---
 
@@ -71,7 +76,6 @@ Shows the evolution of my curiousity and learning. Handwritten bootcamp notebook
 
 ## 🌭 Beyond the Code
 
-- **Preparing a conference talk:** Testing Strategies for AI Bias Outside the Model for Internal IGNITE Tech Conference
 - **Culture coordinator** at Vanguard's Philly office (co-led $250k fundraiser through company-wide hoodie design contest)
 - **Writer** at [Medium](https://codewizwit.medium.com) covering responsible AI, developer culture, and field notes through **Dispatch №13** series
 - **Contributor** to Responsible AI Institute working group on governance and standards
