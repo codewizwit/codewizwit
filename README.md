@@ -24,19 +24,18 @@ Demonstrates practical, team-scale adoption of Responsible AI standards in a rea
 
 ## 💼 What I Do at Vanguard
 
-**Software Engineer** | Test Strategiest | AI Committe Member | Advice & Wealth Management Tech | June 2021 - Present
+Senior Software Engineer, AI Enablement | Vanguard | Philadelphia, PA | Jan 2026 – Present
+• Recruited to AI Enablement based on demonstrated work on AI Connect Committee and thought leadership
+• Developing Claude Code curriculum for 20+ teams: configuration, custom skill building, and shift-left integration patterns
+• Delivering Claude-to-code and Claude-skills building workshops with demonstrated success on all teams onboarded to date
+• Coaching test practitioners on AI-augmented testing strategies, connecting QA expertise with responsible AI workflows
+• Building "Awesome AI" governance registry with automated pipeline scoring for security, documentation, and responsible AI
+compliance
 
-**Impact & Delivery:**
-- Architected and deployed **cloud-based data solution** enabling decommissioning of legacy DB2 table - advancing key milestone in department's data modernization initiative
-- Took ownership of final 15% of critical **full-stack internal enrollment capability**, ensuring on-time deployment through cross-team collaboration
-
-**Testing & Developer Experience:**
-- Built **E2E testing automation pipeline** (GitHub Actions + Cypress + AWS Lambda) reducing manual QA from hours to **under 3 minutes**
-- Serve as **team Testing Practitioner** - maintaining test suites (Cypress, Playwright, Cucumber, Jest) and coaching team on emerging strategies
-
-**Technical Breadth:**
-- Develop micro frontends with **Angular, TypeScript, Nx, and Module Federation**
-- Build backend services with **NestJS, Java, Spring Boot, and AWS**
+Software Engineer | Vanguard | Philadelphia, PA | June 2021 – Dec 2025
+• Cut QA cycles from hours to under 3 minutes by architecting E2E testing pipeline (GitHub Actions, Cypress, AWS Lambda)
+• Drove 10-15% code coverage increase with Playwright, Cypress, Jest; led BDD adoption as team Testing Practitioner
+• Architected cloud data solution that decommissioned legacy DB2, advancing modernization milestone by on
 
 
 ---
