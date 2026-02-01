@@ -59,7 +59,9 @@ compliance
 ---
 ## 📚 Public Speaking
 - **AI Summit NY 2025**: Selected as Future AI Leader; delivered talk "Responsible AI Engineering in Practice"
-- **Upcoming 2026** : Future of Work - Baruch College AI Ethics Symposium | Bias and Blindspots in AI Workflows- Stregthening Testing In Financial Advice -Vanguard IGNITE AI Conference
+- **Upcoming 2026**:
+  - Future of Work - Baruch College AI Ethics Symposium
+  - Bias and Blindspots in AI Workflows- Stregthening Testing In Financial Advice -Vanguard IGNITE AI Conference
 
 ---
 
