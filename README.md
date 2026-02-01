@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Alexandra (codewizwit)
 
-Software engineer building systems that put people first.  
-I build developer tools that make Responsible AI usable and scalable, from publishing npm packages to enterprise-scale governance.
+Software engineer, speaker, writer, and coach committed to building a future where technology serves people, with no human left behind.
 
-Here’s what that looks like in practice - a mix of independent exploration and applied engineering:
-
+I coach engineering teams and translat reesponsible AI principles into engineering practice. 
+I bring full-stack engineering and testing expertise shaped by life across 6 countries, design, and service industry roots that taught me empathy as an operational skill. 
 
 ---
 
