@@ -56,21 +56,11 @@ compliance
 ## 📚 Public Speaking
 - **AI Summit NY 2025**: Selected as Future AI Leader; delivered talk "Responsible AI Engineering in Practice"
 - **Upcoming 2026**:
-  - Future of Work - Baruch College AI Ethics Symposium
   - Bias and Blindspots in AI Workflows- Stregthening Testing In Financial Advice -Vanguard IGNITE AI Conference
+  - Guest Speaker on CODE Podcast (CUNY on Digital Ethics) 
 
 ---
 
-## 📚 Learning in Public
-
-### Curiosity-Documentation: Five Years of "How Does This Actually Work?"
-**[GitHub repo](https://github.com/codewizwit/curiousity-documentation)** documenting my entire learning journey from bootcamp to production engineer.
-
-Shows the evolution of my curiousity and learning. Handwritten bootcamp notebooks with question marks in margins grew into a comprehensive knowledge base covering Angular, React, AWS, testing strategies, responsible AI, and everything in between. 
-
-**Why it matters:** Shows continuous learning mindset, ability to teach complex concepts, and commitment to documentation as a core engineering practice.
-
----
 
 ## 🌭 Beyond the Code
 
